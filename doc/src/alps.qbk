@@ -1,0 +1,23 @@
+[/==============================================================================
+    Copyright (C) 1994-2010 Matthias Troyer and Synge Todo
+
+    Distributed under the Boost Software License, Version 1.0. (See accompanying
+    file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+===============================================================================/]
+
+[book The ALPS Libraries
+    [last-revision $Date: 2017-01-13 17:59:05 +0900 (Fri, 13 Jan 2017) $]
+]
+
+[xinclude overview.xml]
+[xinclude general.xml]
+[xinclude random.xml]
+[xinclude osiris.xml]
+[xinclude parser.xml]
+[xinclude alea.xml]
+[xinclude lattice.xml]
+[xinclude model.xml]
+[xinclude scheduler.xml]
+[xinclude tools.xml]
+[xinclude hdf5.xml]
+[xinclude ietl.xml]
